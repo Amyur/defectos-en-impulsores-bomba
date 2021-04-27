@@ -1,4 +1,4 @@
-# Customer segmentation
+# Submersible pump impeller faults detection using Convolutional Neural Networks
 
 The idea of this app is to detect faults in a submersible pump impeller.
 
