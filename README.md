@@ -28,7 +28,7 @@ streamlit run stream_app.py
 # Deployment
 You can create your own app on Heroku platform. Follow [this](https://devcenter.heroku.com/)
 
-You can access the app [here](https://cust-segment.herokuapp.com/)
+You can access the app [here](https://bombas-defectuosas.herokuapp.com/)
 
 # Built With
 [Streamlit](https://docs.streamlit.io/index.html) - The web framework
